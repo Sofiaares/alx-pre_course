@@ -1,2 +1,2 @@
-touch #!/bin/bash
-touch echo "School"
+#!/bin/bash
+echo "School"

@@ -1,2 +1,2 @@
-touch #!/bin/bash 
-touch echo "ALX"h
+#!/bin/bash
+echo "ALX"
